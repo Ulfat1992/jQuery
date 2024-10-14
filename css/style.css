@@ -1,0 +1,56 @@
+.c_p{
+	font-size: 20px;
+	font-weight: 700;
+	color: blue;
+}
+.c_div, #hw, #hw2{
+	border: solid 1px #c3c3c3;
+	padding: 5px;
+	text-align: center;
+	background-color: #e5eecc;
+}
+#hw, #hw2{
+	padding: 50px;
+}
+#pic{
+	display: none;
+}
+#block{
+	background-color: #bca;
+	width: 100px;
+	border: 1px solid green;
+}
+#box{
+	width: 100px;
+	height: 100px;
+	background-color:#98bf21;
+}
+.test{
+	font-size: 20px;
+	color: red;
+}
+.demo{
+	font-size: 24px;
+	color: green;
+}
+.cd{
+	display: none;
+}
+.c_d1{
+	width: 80px;
+	height: 80px;
+	background-color:red;
+	margin: 30px;
+}
+.c_d2{
+	width: 80px;
+	height: 80px;
+	background-color: green;
+	margin: 30px;
+}
+.c_d3{
+	width: 80px;
+	height: 80px;
+	background-color: yellow;
+	margin: 30px;
+}
